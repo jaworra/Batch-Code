@@ -8,4 +8,4 @@ Batch code to automate and schedule functions
  - Bash
  
  #### What the project does?
-Automating windows task including renaming, moving, scheduling, mapping drives,splitting files into manageable chunks, parsing arguments to exe's etc.
+Automating OS task including renaming, moving, scheduling, mapping drives,splitting files into manageable chunks, parsing arguments to exe's etc.
